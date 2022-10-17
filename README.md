@@ -9,7 +9,7 @@
 # Introduction
 
 In this documentation we explained how to use Huawei-AdMost mediation plugin developed by AdMost. 
-AdMost repository link is [here](https://github.com/admost)
+AdMost repository link is [here](https://github.com/admost/amrandroid)
 
 
 # Compatibility
