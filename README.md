@@ -80,7 +80,6 @@ dependencies {
     implementation 'com.admost.sdk:admost-adapter:1.1.1.a32' 
     implementation 'com.admost.sdk:huawei-ads-adapter:3.4.55.302.a32' 
     implementation 'com.huawei.hms:ads-identifier:3.4.46.300'
-    https://admost.github.io/amrandroid/
 }
 ```   
  [Check the latest version here](https://admost.github.io/amrandroid/) <br>
