@@ -33,8 +33,8 @@ AdMost repository link is [here](https://github.com/admost)
 1. Sign in to [AdMost Dashboard](https://dashboard.admost.com/Login.aspx)
 2. Click on the "**+**" sign on the "**Networks Credentials**" page and activate "**Huawei Ads Network**"
 3. Create an "**Ad Zone**" Select your app and click on "**+Zone**" 
-4. Click on the "**Placements**"tab next yo tour app, then click on  "**+New Placement**". These actions are all taken on the My Apps page.
-5. After that, Users can list, edit,  anddelete all of your placements from  "**Placements**" tab next to the app
+4. Click on the "**Placements**"tab next to your app, then click on  "**+New Placement**". These actions are all taken on the My Apps page.
+5. After that, Users can list, edit, and delete all of your placements from  "**Placements**" tab next to the app
 6. Follow this [link](https://admost.github.io/amrandroid/) for the next integration steps
    <br>
 
