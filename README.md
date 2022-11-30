@@ -181,7 +181,6 @@ Banner Ad
 <td>
 <img src="https://user-images.githubusercontent.com/44730864/196098547-bf8373c5-5bf7-4e52-9bd6-2e5d88b544ee.jpg" width="200">
 
-
 Interstitial Ad
 </td>
 
@@ -196,7 +195,6 @@ Rewarded Ad
 
 Native Ad
 </td>
-
 </tr>
 </tr>
 </table>
